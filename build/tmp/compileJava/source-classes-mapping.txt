@@ -1,0 +1,60 @@
+segurosbolivar/taller13/dto/ClientesDTO.java
+ segurosbolivar.taller13.dto.ClientesDTO
+segurosbolivar/taller13/controller/ArchivosController.java
+ segurosbolivar.taller13.controller.ArchivosController
+segurosbolivar/taller13/controller/FacturaController.java
+ segurosbolivar.taller13.controller.FacturaController
+segurosbolivar/taller13/services/FacturaServiceImpl.java
+ segurosbolivar.taller13.services.FacturaServiceImpl
+segurosbolivar/taller13/repository/TransaccionesRepository.java
+ segurosbolivar.taller13.repository.TransaccionesRepository
+segurosbolivar/taller13/exceptions/ResourceNotFoundException.java
+ segurosbolivar.taller13.exceptions.ResourceNotFoundException
+segurosbolivar/taller13/repository/ClientesRepository.java
+ segurosbolivar.taller13.repository.ClientesRepository
+segurosbolivar/taller13/services/DtoService.java
+ segurosbolivar.taller13.services.DtoService
+segurosbolivar/taller13/repository/FacturaRepository.java
+ segurosbolivar.taller13.repository.FacturaRepository
+segurosbolivar/taller13/repository/ArchivosRepository.java
+ segurosbolivar.taller13.repository.ArchivosRepository
+segurosbolivar/taller13/model/Factura.java
+ segurosbolivar.taller13.model.Factura
+segurosbolivar/taller13/services/ClientesService.java
+ segurosbolivar.taller13.services.ClientesService
+segurosbolivar/taller13/services/DetallesServiceImpl.java
+ segurosbolivar.taller13.services.DetallesServiceImpl
+segurosbolivar/taller13/services/TransaccionesService.java
+ segurosbolivar.taller13.services.TransaccionesService
+segurosbolivar/taller13/repository/DetallesRepository.java
+ segurosbolivar.taller13.repository.DetallesRepository
+segurosbolivar/taller13/services/ArchivosService.java
+ segurosbolivar.taller13.services.ArchivosService
+segurosbolivar/taller13/controller/DetallesController.java
+ segurosbolivar.taller13.controller.DetallesController
+segurosbolivar/taller13/Taller13Application.java
+ segurosbolivar.taller13.Taller13Application
+segurosbolivar/taller13/services/ArchivosServiceImpl.java
+ segurosbolivar.taller13.services.ArchivosServiceImpl
+segurosbolivar/taller13/services/ClientesServiceImpl.java
+ segurosbolivar.taller13.services.ClientesServiceImpl
+segurosbolivar/taller13/exceptions/ClienteNotFoundException.java
+ segurosbolivar.taller13.exceptions.ClienteNotFoundException
+segurosbolivar/taller13/services/FacturaService.java
+ segurosbolivar.taller13.services.FacturaService
+segurosbolivar/taller13/services/DetallesService.java
+ segurosbolivar.taller13.services.DetallesService
+segurosbolivar/taller13/exceptions/ExceptionResponse.java
+ segurosbolivar.taller13.exceptions.ExceptionResponse
+segurosbolivar/taller13/model/Detalles.java
+ segurosbolivar.taller13.model.Detalles
+segurosbolivar/taller13/controller/ClientesController.java
+ segurosbolivar.taller13.controller.ClientesController
+segurosbolivar/taller13/model/Clientes.java
+ segurosbolivar.taller13.model.Clientes
+segurosbolivar/taller13/model/Archivos.java
+ segurosbolivar.taller13.model.Archivos
+segurosbolivar/taller13/services/DtoServiceImpl.java
+ segurosbolivar.taller13.services.DtoServiceImpl
+segurosbolivar/taller13/controller/TransaccionController.java
+ segurosbolivar.taller13.controller.TransaccionController
